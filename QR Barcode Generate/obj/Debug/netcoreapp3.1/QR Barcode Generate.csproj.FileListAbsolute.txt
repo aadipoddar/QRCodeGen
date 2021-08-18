@@ -1,0 +1,18 @@
+D:\QR Barcode Generate\QR Barcode Generate\bin\Debug\netcoreapp3.1\QR Barcode Generate.exe
+D:\QR Barcode Generate\QR Barcode Generate\bin\Debug\netcoreapp3.1\QR Barcode Generate.deps.json
+D:\QR Barcode Generate\QR Barcode Generate\bin\Debug\netcoreapp3.1\QR Barcode Generate.runtimeconfig.json
+D:\QR Barcode Generate\QR Barcode Generate\bin\Debug\netcoreapp3.1\QR Barcode Generate.runtimeconfig.dev.json
+D:\QR Barcode Generate\QR Barcode Generate\bin\Debug\netcoreapp3.1\QR Barcode Generate.dll
+D:\QR Barcode Generate\QR Barcode Generate\bin\Debug\netcoreapp3.1\QR Barcode Generate.pdb
+D:\QR Barcode Generate\QR Barcode Generate\bin\Debug\netcoreapp3.1\Zen.Barcode.Core.dll
+D:\QR Barcode Generate\QR Barcode Generate\obj\Debug\netcoreapp3.1\QR Barcode Generate.csproj.AssemblyReference.cache
+D:\QR Barcode Generate\QR Barcode Generate\obj\Debug\netcoreapp3.1\QR_Barcode_Generate.Form1.resources
+D:\QR Barcode Generate\QR Barcode Generate\obj\Debug\netcoreapp3.1\QR Barcode Generate.csproj.GenerateResource.cache
+D:\QR Barcode Generate\QR Barcode Generate\obj\Debug\netcoreapp3.1\QR Barcode Generate.GeneratedMSBuildEditorConfig.editorconfig
+D:\QR Barcode Generate\QR Barcode Generate\obj\Debug\netcoreapp3.1\QR Barcode Generate.AssemblyInfoInputs.cache
+D:\QR Barcode Generate\QR Barcode Generate\obj\Debug\netcoreapp3.1\QR Barcode Generate.AssemblyInfo.cs
+D:\QR Barcode Generate\QR Barcode Generate\obj\Debug\netcoreapp3.1\QR Barcode Generate.csproj.CoreCompileInputs.cache
+D:\QR Barcode Generate\QR Barcode Generate\obj\Debug\netcoreapp3.1\QR Barcode Generate.csproj.CopyComplete
+D:\QR Barcode Generate\QR Barcode Generate\obj\Debug\netcoreapp3.1\QR Barcode Generate.dll
+D:\QR Barcode Generate\QR Barcode Generate\obj\Debug\netcoreapp3.1\QR Barcode Generate.pdb
+D:\QR Barcode Generate\QR Barcode Generate\obj\Debug\netcoreapp3.1\QR Barcode Generate.genruntimeconfig.cache
